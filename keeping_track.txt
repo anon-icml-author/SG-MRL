@@ -1,0 +1,111 @@
+(done) maml chetah 1 step seeds 1,2 are lunning on d-10-3-2 in tmux maml-cheetah
+(done) smgrl chetah 1 step seeds 1,2 are lunning on d-10-2-2 in tmux smgrl-cheetah
+(done) smgrl,maml chetah 3 step seed 1 are lunning on d-9-3-2 in tmux both-3adapt-cheetah
+(fail) smgrl,maml chetah 1 step seeds 3,4  are lunning on d-10-3-2 in tmux both-1adapt-cheetah
+(done) maml chetah 2 step seeds 1,2  are lunning on d-10-2-2 in tmux maml-2adapt-cheetah
+(done) sgmrlchetah 2 step seeds 1,2  are lunning on d-12-13-2 in tmux sgmrl-2adapt-cheetah
+maml cheetah_dir 2 18 on d-12-13-2
+maml cheetah_dir 2 19 on d-12-13-2
+maml cheetah_dir 1 6 on d-10-2-2
+maml cheetah_dir 1 7 on d-10-2-2
+sgmrl cheetah_dir 2 19 on d-9-3-2
+sgmrl cheetah_dir 1 6 on d-9-3-2
+sgmrl cheetah_dir 1 7 on d-12-7-1
+sgmrl cheetah_dir 1 8 on d-12-7-1
+sgmrl cheetah_dir 3 8 on d-12-8-1
+sgmrl cheetah_dir 3 9 on d-12-8-1
+sgmrl cheetah_dir 1 7 on d-12-7-1
+sgmrl cheetah_dir 1 8 on d-12-7-1
+maml cheetah_dir 1 8 on d-10-2-1
+maml cheetah_dir 3 8 on d-10-2-1
+maml cheetah_dir 3 9 on d-10-3-2
+sgmrl cheetah_dir 2 18 on d-10-3-2
+maml cheetah_dir 1 8 on d-10-2-1
+maml cheetah_dir 3 8 on d-10-2-1
+======================================
+sgmrl cheetah_dir 1 45 on d-12-7-1
+sgmrl cheetah_dir 1 46 on d-12-7-1
+======================================
+sgmrl cheetah_dir 2 42 on d-9-3-2
+sgmrl cheetah_dir 1 44 on d-9-3-2
+======================================
+maml cheetah_dir 3 47 on d-10-2-1
+maml cheetah_dir 2 48  on d-10-2-1
+======================================
+maml cheetah_dir 1 45 on d-10-2-2
+maml cheetah_dir 3 46 on d-10-2-2
+======================================
+maml cheetah_dir 2 42 on d-12-13-2
+maml cheetah_dir 1 44 on d-12-13-2
+======================================
+maml point 1 31 on d-10-3-2
+sgmrl point 1 32 on d-10-3-2
+sgmrl point 2 33 on d-10-3-2
+======================================
+maml point 1 131 on d-10-3-2
+sgmrl point 1 132 on d-10-3-2
+sgmrl point 2 133 on d-10-3-2
+======================================
+maml cheetah_dir 2 142 on d-12-13-2
+maml cheetah_dir 1 144 on d-12-13-2
+======================================
+maml cheetah_dir 1 145 on d-10-2-2
+maml cheetah_dir 3 56 on d-10-2-2
+======================================
+maml cheetah_dir 3 57 on d-10-2-1
+maml cheetah_dir 2 58  on d-10-2-1
+======================================
+sgmrl cheetah_dir 2 142 on d-9-3-2
+sgmrl cheetah_dir 1 144 on d-9-3-2
+======================================
+sgmrl cheetah_dir 1 145 on d-12-7-1
+sgmrl cheetah_dir 1 56 on d-12-7-1
+======================================
+sgmrl cheetah_dir 3 57 on d-12-8-1
+sgmrl cheetah_dir 2 58 on d-12-8-1
+======================================
+maml cheetah_dir 1 644 on d-12-13-2
+maml cheetah_dir 1 645 on d-10-2-2
+maml cheetah_dir 3 656 on d-10-2-2
+maml cheetah_dir 3 657 on d-10-2-1
+maml cheetah_dir 2 658  on d-10-2-1
+sgmrl point 3 631 on d-10-3-2
+sgmrl point 1 632 on d-10-3-2
+sgmrl point 2 633 on d-10-3-2
+sgmrl cheetah_dir 2 642 on d-9-3-2
+sgmrl cheetah_dir 1 644 on d-9-3-2
+sgmrl cheetah_dir 1 645 on d-12-7-1
+sgmrl cheetah_dir 1 656 on d-12-7-1
+======================================
+maml cheetah_dir 1 644 on d-12-13-2
+maml cheetah_dir 1 645 on d-10-2-2
+maml cheetah_dir 3 656 on d-10-2-2
+maml cheetah_dir 3 657 on d-10-2-1
+maml cheetah_dir 2 658  on d-10-2-1
+sgmrl cheetah_dir 2 642 on d-9-3-2
+sgmrl cheetah_dir 1 644 on d-9-3-2
+sgmrl cheetah_dir 1 656 on d-12-7-1
+======================================
+emaml point 1 672 on d-10-3-2
+sgmrl point 1 672 on d-10-3-2
+======================================
+ on d-12-8-1
+ on d-12-8-1
+======================================
+emaml point 1 682 on d-12-8-1
+sgmrl point 1 682 on d-12-8-1
+======================================
+emaml point 1 682 on d-12-8-1
+sgmrl point 1 682 on d-12-8-1
+======================================
+maml point 1 695 on d-10-3-2
+======================================
+maml point 1 697 on d-10-3-2
+======================================
+maml point 1 697 on d-10-3-2
+======================================
+sgmrl cheetah_dir 3 992 on d-12-13-2
+sgmrl cheetah_dir 3 993 on d-10-2-1
+sgmrl cheetah_dir 3 995 on d-9-3-2
+sgmrl cheetah_dir 3 996 on d-12-7-1
+sgmrl cheetah_dir 3 994 on d-12-8-1
